@@ -1,3 +1,3 @@
 # TicTacToe
 
-#A basic TicTacToe match against the computer.
+A basic TicTacToe match against the computer.
